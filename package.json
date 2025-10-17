@@ -1,0 +1,37 @@
+{
+    "name": "sticky-shadcn-tabs",
+    "version": "0.1.0",
+    "description": "Sticky animated tabs with shadcn style, fully customizable for React + Radix UI + Tailwind CSS",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "files": [
+      "dist"
+    ],
+    "scripts": {
+      "build": "tsc --declaration --emitDeclarationOnly && tsc",
+      "prepare": "npm run build"
+    },
+    "peerDependencies": {
+      "react": ">=18.0.0",
+      "react-dom": ">=18.0.0",
+      "@radix-ui/react-tabs": "^1.0.0",
+      "framer-motion": "^10.0.0",
+      "tailwind-merge":"^3.3.1",
+      "clsx":"^2.1.1"
+    },
+    "devDependencies": {
+      "typescript": "^5.0.0",
+      "@types/react": "^18.0.0",
+      "@types/react-dom": "^18.0.0"
+    },
+    "keywords": [
+      "tabs",
+      "sticky",
+      "framer-motion",
+      "shadcn",
+      "radix",
+      "react"
+    ],
+    "license": "MIT"
+  }
+  
