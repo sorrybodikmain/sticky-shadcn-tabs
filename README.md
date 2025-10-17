@@ -5,7 +5,7 @@
 
 Sticky Shadcn Tabs is a modern, fully customizable sticky tabs component for React, built on top of [Radix UI Tabs](https://www.radix-ui.com/docs/primitives/components/tabs) and [Framer Motion](https://www.framer.com/motion/). Designed for seamless integration with Tailwind CSS, it allows smooth sticky behavior with blur, shadow, gradient fade, and full motion customization.
 
-[@sorrybodimain](https://www.github.com/sorrybodimain)
+[@sorrybodikmain](https://www.github.com/sorrybodikmain)
 
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D19050%26project%3Dsticky-shadcn-tabs)](https://codetime.dev)
 
